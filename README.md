@@ -12,8 +12,12 @@ AWS is the cloud envrionment chosen for the project.   It is a 3-tier architectu
 We are using Terraform  for Infrastructure As Code- IaC. This will be used of auto-provisioning of infrastructure
 
 ## Operations
-First install Terraform
-Write your Terraform code
-Push your change 
-execute 
+- First install Terraform
+- Write your Terraform code
+- Push your change 
+- Execute 
+  - run terraform init 
+  - run terraform validate 
+  - run terraform apply
+
 
